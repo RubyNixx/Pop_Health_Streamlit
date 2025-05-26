@@ -6,6 +6,10 @@ This project uses the following key Python libraries:
 - [`pydeck`](https://pydeck.gl/) — Geospatial visualization
 - [`streamlit`](https://streamlit.io/) — Interactive data apps
 - [`json`](https://docs.python.org/3/library/json.html) — JSON parsing
+- [`geopandas`](https://geopandas.org/) — Geospatial data analysis (GeoDataFrames)
+- [`shapely`](https://shapely.readthedocs.io/en/stable/) — Geometry operations and analysis
+- [`requests`](https://docs.python-requests.org/en/latest/) — HTTP requests for API data fetching
+- [`altair`](https://altair-viz.github.io/) — Declarative statistical visualization
 
 Below are official documentation links, tutorials, and videos to help you get started and go deeper.
 
